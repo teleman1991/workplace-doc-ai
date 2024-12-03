@@ -1,9 +1,1 @@
-transformers>=4.30.0
-python-docx>=0.8.11
-PyPDF2>=3.0.0
-pandas>=1.5.0
-numpy>=1.23.0
-torch>=2.0.0
-fastapi>=0.95.0
-uvicorn>=0.21.0
-python-multipart>=0.0.6
+dHJhbnNmb3JtZXJzPj00LjMwLjAKcHl0aG9uLWRvY3g+PTAuOC4xMQpQeVBERjI+PTMuMC4wCnBhbmRhcz49MS41LjAKbnVtcHk+PTEuMjMuMAp0b3JjaD49Mi4wLjAKZmFzdGFwaT49MC45NS4wCnV2aWNvcm4+PTAuMjEuMApweXRob24tbXVsdGlwYXJ0Pj0wLjAuNg==
